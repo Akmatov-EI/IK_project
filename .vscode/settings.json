@@ -1,0 +1,16 @@
+{
+    "AVR.reporter.arguments": [
+        "-A"
+    ],
+    "AVR.source.compiler": "c:\\avr-gcc-14.1.0-x64-windows\\bin\\avr-gcc.exe",
+    "AVR.programmer.tool": "c:\\avr-gcc-14.1.0-x64-windows\\bin\\avrdude.exe",
+    "AVR.source.libraries": [],
+    "AVR.device.type": "atmega328p",
+    "AVR.device.frequency": 16000000,
+    "AVR.programmer.type": "usbasp",
+    "AVR.programmer.port": "USB",
+    "AVR.programmer.rate": 115200,
+    "files.associations": {
+        "main.h": "c"
+    }
+}
